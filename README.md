@@ -6,6 +6,8 @@ My current technical focus includes MCP integrations, AI tooling reliability, an
 
 I work remotely and communicate in English. My total availability is up to 40 hours per week; reserved time, meeting overlap, scope, and delivery milestones are agreed per engagement.
 
+**[Enterprise AI implementation services](services.md)** — Workflow assessment, a scoped implementation pilot, and practical team handover.
+
 ## Selected merged contributions
 
 - **[IBM MCP Context Forge #6049](https://github.com/IBM/mcp-context-forge/pull/6049)** — Preserve existing gateway catalog data when OAuth discovery returns an empty result, including checks for retained tool aliases. [Read the case study](case-studies/ibm-mcp-catalog.md).
