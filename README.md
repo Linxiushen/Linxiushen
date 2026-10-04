@@ -8,6 +8,8 @@ I work remotely and communicate in English. Project hours, meeting overlap, scop
 
 **[Enterprise AI implementation services](services.md)** — Workflow assessment, a scoped implementation pilot, and practical team handover.
 
+For ecommerce and creative teams: **[start with a focused workflow assessment](workflow-assessment.md)**. One workflow, two main systems, and a practical decision before implementation. [Prepare a short workflow brief](workflow-brief.md).
+
 ## Enterprise workflow example
 
 [Connecting design and office workflows through Codex](case-studies/codex-business-workflows.md) — An anonymized overview of a delivered project: a shared work entry point, company-specific Skills and information flows across business platforms. The case describes the project-level change.

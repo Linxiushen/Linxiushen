@@ -24,6 +24,8 @@ Your existing software continues to perform its agreed role. We define the commo
 
 ## How an engagement works
 
+For ecommerce operations and creative teams, the [focused workflow assessment](workflow-assessment.md) is a concrete first engagement: one workflow, up to two systems, representative examples and a decision your team can use independently.
+
 The following two engagement options are proposed starting points. Deliverables, allocated time, fees and dates are confirmed in a written scope before work begins.
 
 **Workflow assessment and pilot blueprint.** Focus on one recurring workflow. Map its dependencies, establish an available baseline, check data and system access, and define a pilot with measurable acceptance criteria. You receive a workflow map, findings and a scoped recommendation, including reasons to stop or defer if the opportunity is not ready.
@@ -59,3 +61,5 @@ These contributions do not imply employment or a consulting relationship with th
 Bring one recurring process, the systems involved, its current bottleneck and the outcome you want to improve. The first discussion establishes fit and the information needed to scope an assessment. Engagement scope, timing and fees are agreed before delivery begins.
 
 Contact: [m15178824683@gmail.com](mailto:m15178824683@gmail.com).
+
+You can use this [short workflow brief](workflow-brief.md) to prepare the first email.
