@@ -4,6 +4,8 @@
 
 Connect the design and office software your team already uses, and turn recurring procedures into workflows people can reuse and improve. I offer independent, remote AI implementation for teams in Europe and North America, with communication in English. A focused Codex implementation can bring together the workflow, the required system connections and company-specific Skills.
 
+Visit the [service website](https://leon-ai-workflows.pages.dev/) or explore the [synthetic workflow demo](https://leon-ai-workflows.pages.dev/demo/). The demo uses synthetic data and has no live integrations.
+
 ## Start with the business problem
 
 This service is designed for business and operations leaders whose teams already use AI and office tools, but still need to coordinate work across them. We identify where the process depends on repeated instructions, moving information between systems or knowledge held by a few people, and decide which part is worth improving.
@@ -61,5 +63,7 @@ These contributions do not imply employment or a consulting relationship with th
 Bring one recurring process, the systems involved, its current bottleneck and the outcome you want to improve. The first discussion establishes fit and the information needed to scope an assessment. Engagement scope, timing and fees are agreed before delivery begins.
 
 Contact: [m15178824683@gmail.com](mailto:m15178824683@gmail.com).
+
+Use the website to [prepare a workflow enquiry](https://leon-ai-workflows.pages.dev/#contact), or read the [focused assessment scope](https://leon-ai-workflows.pages.dev/assessment).
 
 You can use this [short workflow brief](workflow-brief.md) to prepare the first email.

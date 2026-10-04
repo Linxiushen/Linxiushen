@@ -1,5 +1,9 @@
 # Linxiushen
 
+[Website](https://leon-ai-workflows.pages.dev/) · [Workflow assessment](https://leon-ai-workflows.pages.dev/assessment) · [Synthetic workflow demo](https://leon-ai-workflows.pages.dev/demo/) · [Discuss a workflow](https://leon-ai-workflows.pages.dev/#contact)
+
+The demo uses synthetic data and has no live integrations.
+
 I am an independent FDE consultant offering remote AI implementation for teams in Europe and North America. I help connect existing design and office tools through Codex, capture company-specific procedures as Skills, and help teams operate and improve agreed workflows.
 
 My current technical focus includes MCP integrations, AI tooling reliability, and workflow data integrity. I am interested in scoped projects that turn a specific business workflow into a working, testable integration with clear documentation and handover.

@@ -2,6 +2,8 @@
 
 **One recurring task. Two main systems. A clear implementation decision.**
 
+[Read this assessment on the website](https://leon-ai-workflows.pages.dev/assessment) · [Prepare a workflow enquiry](https://leon-ai-workflows.pages.dev/#contact)
+
 I help ecommerce operations and creative teams in Europe and North America connect existing AI and office tools and turn the process into something their team can run. Delivery is remote, in English, directly with an independent consultant.
 
 The starting point is a paid assessment of one workflow. We identify the handoffs, access constraints and evidence needed to decide whether an implementation is worth doing.
@@ -27,6 +29,8 @@ The assessment can stand on its own. You can use the findings with your team or 
 ## A possible first workflow
 
 Product-image coordination: approved product information and references, an agreed design tool, human review and a destination for accepted work. This is an example to scope together, not a claim that these steps suit every company.
+
+Explore the [synthetic workflow demo](https://leon-ai-workflows.pages.dev/demo/) to see the proposed review and handoff steps. It uses synthetic data and has no live integrations.
 
 If the assessment supports implementation, we define a separate pilot: one workflow, up to two named connections, one environment and up to five users. Each connection specifies the permitted operations. A company-specific Codex Skill can capture reusable instructions and references; the required tools and access are configured and evaluated as part of the implementation.
 
