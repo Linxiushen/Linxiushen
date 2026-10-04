@@ -1,8 +1,10 @@
 # Linxiushen
 
-I am building an enterprise AI implementation practice, with a focus on workflows, system integration, and team enablement.
+I am an independent FDE consultant focused on enterprise AI implementation for teams in Europe and North America: workflows, system integration, and team enablement.
 
 My current technical focus includes MCP integrations, AI tooling reliability, and workflow data integrity. I am interested in scoped projects that turn a specific business workflow into a working, testable integration with clear documentation and handover.
+
+I work remotely and communicate in English. My total availability is up to 40 hours per week; reserved time, meeting overlap, scope, and delivery milestones are agreed per engagement.
 
 ## Selected merged contributions
 
@@ -14,6 +16,6 @@ These are independent open-source contributions, not employment or client engage
 
 ## Discuss a project
 
-Email: **[1787979356@qq.com](mailto:1787979356@qq.com)**
+Email: **[m15178824683@gmail.com](mailto:m15178824683@gmail.com)**
 
-Please include the workflow you want to improve, the systems involved, the expected outcome, and your timeline. A sanitized example of the current problem helps make the scope concrete.
+Please include the workflow you want to improve, the systems involved, the expected outcome, your timeline, and your time zone. A sanitized example of the current problem helps make the scope concrete.
