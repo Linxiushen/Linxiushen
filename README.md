@@ -6,9 +6,9 @@ My current technical focus includes MCP integrations, AI tooling reliability, an
 
 ## Selected merged contributions
 
-- **[IBM MCP Context Forge #6049](https://github.com/IBM/mcp-context-forge/pull/6049)** — Preserve existing gateway catalog data when OAuth discovery returns an empty result, including checks for retained tool aliases.
-- **[Tencent AI-Infra-Guard #680](https://github.com/Tencent/AI-Infra-Guard/pull/680)** — Keep text remediation guidance while producing valid SARIF reports.
-- **[ByteDance FlowGram #1200](https://github.com/bytedance/flowgram.ai/pull/1200)** — Serialize parent relationships from the document tree after workflow nodes move.
+- **[IBM MCP Context Forge #6049](https://github.com/IBM/mcp-context-forge/pull/6049)** — Preserve existing gateway catalog data when OAuth discovery returns an empty result, including checks for retained tool aliases. [Read the case study](case-studies/ibm-mcp-catalog.md).
+- **[Tencent AI-Infra-Guard #680](https://github.com/Tencent/AI-Infra-Guard/pull/680)** — Keep text remediation guidance while producing valid SARIF reports. [Read the case study](case-studies/sarif-compatibility.md).
+- **[ByteDance FlowGram #1200](https://github.com/bytedance/flowgram.ai/pull/1200)** — Serialize parent relationships from the document tree after workflow nodes move. [Read the case study](case-studies/workflow-serialization.md).
 
 These are independent open-source contributions, not employment or client engagements with the organizations above. I use AI-assisted tools in my contribution workflow. The linked PRs contain the implementation, review discussion, and validation scope; they do not establish production deployment results.
 
