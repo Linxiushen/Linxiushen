@@ -1,14 +1,26 @@
 # Enterprise AI implementation
 
-## Bring AI into the workflows your team runs every day
+## Make your AI tools work together
 
-AI tools become useful when they fit the work people actually do. I work as an independent consultant, delivering remotely for teams in Europe and North America with communication in English. My approach combines workflow assessment, engineering implementation and team enablement, with clear ownership and agreed measures of success.
+Connect the design and office software your team already uses, and turn recurring procedures into workflows people can reuse and improve. I offer independent, remote AI implementation for teams in Europe and North America, with communication in English. A focused Codex implementation can bring together the workflow, the required system connections and company-specific Skills.
 
 ## Start with the business problem
 
-This service is designed for business and operations leaders who already see potential in AI but need help deciding where to invest, connecting tools to existing systems, or moving a promising pilot into routine use.
+This service is designed for business and operations leaders whose teams already use AI and office tools, but still need to coordinate work across them. We identify where the process depends on repeated instructions, moving information between systems or knowledge held by a few people, and decide which part is worth improving.
 
-We start with a specific workflow, the people responsible for it and the result that needs to improve. Possible starting points include product content operations, recurring management reporting and customer support assistance.
+We start with a specific workflow, the people responsible for it and the result that needs to improve. A possible first pilot connects approved product information, an image-generation service, a human review step and the destination for accepted work. The exact systems and steps are agreed during assessment.
+
+## A delivered change: connected design and office workflows
+
+In an anonymized enterprise project, image work had relied on specialist AI design SaaS. The delivered approach introduced Codex as a shared work entry point, connected design SaaS and office workflows, and captured company-specific procedures as Skills. This connected information flows across business platforms and created reusable workflow instructions.
+
+This is a project-level overview of the workflow change. Quantitative business outcomes are outside the scope of this account.
+
+## What a company-specific Skill contains
+
+A Skill packages task instructions, reference materials and optional scripts. For an agreed workflow, this can capture the inputs to use, the steps to follow, the output to produce and when to ask a person for review. The required tools and authorized system access are configured and checked as part of the implementation.
+
+Your existing software continues to perform its agreed role. We define the common work entry point, how information moves, who can act and how the team handles exceptions.
 
 ## How an engagement works
 
@@ -16,7 +28,7 @@ The following two engagement options are proposed starting points. Deliverables,
 
 **Workflow assessment and pilot blueprint.** Focus on one recurring workflow. Map its dependencies, establish an available baseline, check data and system access, and define a pilot with measurable acceptance criteria. You receive a workflow map, findings and a scoped recommendation, including reasons to stop or defer if the opportunity is not ready.
 
-**One-workflow implementation pilot.** Build and evaluate the agreed workflow in your chosen environment, with named integrations, human review points, exception handling and operating documentation. Measure quality, handling time and operating cost against the agreed baseline. Train the designated owner to run the workflow and handle an agreed exception. Expansion is scoped after reviewing the pilot evidence.
+**One-workflow implementation pilot.** Build and evaluate a company-specific Skill and the agreed system connections in your chosen environment, with human review points, exception handling and operating documentation. Measure quality, handling time and operating cost against the agreed baseline. Train the designated owner to run the workflow and handle an agreed exception. Expansion is scoped after reviewing the pilot evidence.
 
 ## Working together remotely
 
@@ -28,7 +40,7 @@ A focused first pilot covers a clearly bounded workflow and a small group of use
 
 ## What stays with your team
 
-The assessment leaves you with a decision and a practical pilot blueprint. An implementation pilot also includes the agreed implementation, evaluation and monitoring materials, operating procedures, and practical training for designated staff. Ownership and third-party license terms are specified in the engagement agreement.
+The assessment leaves you with a decision and a practical pilot blueprint. An implementation pilot also includes the agreed Skill and supporting implementation, evaluation records, operating procedures, dependency and access notes, and practical training for designated staff. Ownership and third-party license terms are specified in the engagement agreement.
 
 Acceptance uses agreed examples, functional and quality checks, exception tests and a handover exercise. Business benefits are measured during the pilot; targets and any outcome commitments are defined explicitly in the agreement.
 

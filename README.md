@@ -1,12 +1,16 @@
 # Linxiushen
 
-I am an independent FDE consultant focused on enterprise AI implementation for teams in Europe and North America: workflows, system integration, and team enablement.
+I am an independent FDE consultant offering remote AI implementation for teams in Europe and North America. I help connect existing design and office tools through Codex, capture company-specific procedures as Skills, and help teams operate and improve agreed workflows.
 
 My current technical focus includes MCP integrations, AI tooling reliability, and workflow data integrity. I am interested in scoped projects that turn a specific business workflow into a working, testable integration with clear documentation and handover.
 
-I work remotely and communicate in English. My total availability is up to 40 hours per week; reserved time, meeting overlap, scope, and delivery milestones are agreed per engagement.
+I work remotely and communicate in English. Project hours, meeting overlap, scope, and delivery milestones are agreed per engagement.
 
 **[Enterprise AI implementation services](services.md)** — Workflow assessment, a scoped implementation pilot, and practical team handover.
+
+## Enterprise workflow example
+
+[Connecting design and office workflows through Codex](case-studies/codex-business-workflows.md) — An anonymized overview of a delivered project: a shared work entry point, company-specific Skills and information flows across business platforms. The case describes the project-level change.
 
 ## Selected merged contributions
 
