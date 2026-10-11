@@ -58,6 +58,8 @@ My independent open-source contributions provide public examples of the engineer
 
 These contributions do not imply employment or a consulting relationship with the organizations listed. AI-assisted tools are part of the development workflow.
 
+[Engineering notes](https://leon-ai-workflows.pages.dev/engineering) · [MCP workflow reliability](https://leon-ai-workflows.pages.dev/mcp-workflow-reliability)
+
 ## Begin with a workflow discussion
 
 Bring one recurring process, the systems involved, its current bottleneck and the outcome you want to improve. The first discussion establishes fit and the information needed to scope an assessment. Engagement scope, timing and fees are agreed before delivery begins.

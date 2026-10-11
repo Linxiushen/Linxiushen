@@ -25,6 +25,8 @@ These are independent open-source contributions, not employment, client engageme
 
 [Why AI remediation advice is not a SARIF fix](engineering-notes/sarif-remediation.md) — a concrete format failure, before/after JSON, regression evidence and the consumer migration boundary. Based on my merged AI-Infra-Guard contribution.
 
+[Engineering notes](https://leon-ai-workflows.pages.dev/engineering) · [MCP workflow reliability](https://leon-ai-workflows.pages.dev/mcp-workflow-reliability)
+
 ## Projects I maintain
 
 | Project | Purpose | Start here |
