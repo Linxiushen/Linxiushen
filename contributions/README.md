@@ -70,3 +70,5 @@ Independent contributions by **[Linxiushen](https://github.com/Linxiushen)**. Sn
 [Authored open PRs](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3ALinxiushen) · [Authored merged PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ALinxiushen) · [Profile](../README.md)
 
 Open PRs are proposals under review. They are not presented as merged work. These contributions do not establish employment or organizational endorsement.
+
+[Technical note: why remediation advice is not an executable SARIF fix](../engineering-notes/sarif-remediation.md).

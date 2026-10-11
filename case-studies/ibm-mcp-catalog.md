@@ -14,7 +14,7 @@ Checking only incoming tools was insufficient. A retained alias could conflict e
 
 ## Change
 
-The fix preserves existing catalog entries when OAuth discovery returns no entries and includes retained local aliases in the existing collision guard. It uses the established scope checks rather than introducing a separate definition of which tools may share a name.
+The fix preserves existing catalog entries when the whole OAuth discovery result is empty and includes retained local aliases in the existing collision guard. Partially populated discovery still reconciles discovered entries; this is not a blanket keep-everything policy. It uses the established scope checks rather than introducing a separate definition of which tools may share a name.
 
 Regression coverage exercises empty and populated discovery, retained aliases, conflicting names, and visibility boundaries. The database cases use real SQLite persistence through synchronization, validation, reconciliation, and commit; remote OAuth, notification, and cache boundaries are mocked.
 
@@ -26,7 +26,7 @@ These are historical contribution results, not tests rerun for this case study. 
 
 ## Evidence and implementation relevance
 
-[PR #6049](https://github.com/IBM/mcp-context-forge/pull/6049) contains the implementation and review; the [changed files](https://github.com/IBM/mcp-context-forge/pull/6049/files) show the code and regressions. Authorship and merged status were rechecked on October 4, 2026.
+[PR #6049](https://github.com/IBM/mcp-context-forge/pull/6049) contains the implementation and review; the [changed files](https://github.com/IBM/mcp-context-forge/pull/6049/files) show the code and regressions. Authorship, current head and merged status were rechecked on October 11, 2026.
 
 For enterprise AI implementation, this illustrates a concrete integration concern: defining what an empty external response means for local state, then preserving data without weakening consistency rules. The transferable work is reproduction, a scoped correction, and explicit acceptance evidence.
 

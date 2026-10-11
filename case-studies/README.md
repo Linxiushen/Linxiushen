@@ -14,3 +14,5 @@ Independent open-source work by Linxiushen. Each article links to the merged PR,
 [Connecting design and office workflows through Codex](codex-business-workflows.md) — an anonymized delivered project overview, with client identity and unverified outcome figures withheld.
 
 [Full contribution index](../contributions/README.md) · [Profile](../README.md)
+
+[Technical note: why remediation advice is not an executable SARIF fix](../engineering-notes/sarif-remediation.md).
