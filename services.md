@@ -62,6 +62,8 @@ These contributions do not imply employment or a consulting relationship with th
 
 ## Begin with a workflow discussion
 
+You can first use the [free workflow handoff worksheet](engineering-notes/ai-workflow-handoff-checklist.md) with your own team. It includes blank Markdown and JSON acceptance plans; using it does not require an engagement.
+
 Bring one recurring process, the systems involved, its current bottleneck and the outcome you want to improve. The first discussion establishes fit and the information needed to scope an assessment. Engagement scope, timing and fees are agreed before delivery begins.
 
 Contact: [m15178824683@gmail.com](mailto:m15178824683@gmail.com).

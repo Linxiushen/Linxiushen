@@ -1,0 +1,39 @@
+{
+  "templateVersion": "1.0",
+  "purpose": "Record evidence for one AI workflow handoff; this template is not an executable validator or an authorization.",
+  "workflow": "",
+  "boundary": {
+    "sourceSystem": "",
+    "destinationSystem": "",
+    "sanitizedInputExample": "",
+    "expectedDestinationResult": ""
+  },
+  "scope": {
+    "allowedOperations": [],
+    "excludedOperations": [],
+    "ownerApprovalEvidence": "",
+    "testEnvironment": ""
+  },
+  "owners": {
+    "workflowOwner": "",
+    "technicalContact": ""
+  },
+  "checks": [
+    {"id": "normal_input", "expected": "", "observed": "", "evidence": [], "status": "not_run"},
+    {"id": "empty_input", "expected": "", "observed": "", "evidence": [], "status": "not_run"},
+    {"id": "partial_data", "expected": "", "observed": "", "evidence": [], "status": "not_run"},
+    {"id": "receiver_contract", "expected": "", "observed": "", "evidence": [], "status": "not_run"},
+    {"id": "save_reload", "expected": "", "observed": "", "evidence": [], "status": "not_run"},
+    {"id": "failed_write", "expected": "", "observed": "", "evidence": [], "status": "not_run"},
+    {"id": "controlled_retry", "expected": "", "observed": "", "evidence": [], "status": "not_run"},
+    {"id": "missing_permission", "expected": "", "observed": "", "evidence": [], "status": "not_run"},
+    {"id": "owner_handover", "expected": "", "observed": "", "evidence": [], "status": "not_run"}
+  ],
+  "decision": {
+    "status": "not_assessed",
+    "unresolvedGaps": [],
+    "agreedNextAction": "",
+    "reviewedBy": "",
+    "reviewedAt": null
+  }
+}

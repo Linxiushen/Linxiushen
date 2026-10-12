@@ -21,9 +21,11 @@ Each entry links to the upstream implementation, review and merge record. The ca
 
 These are independent open-source contributions, not employment, client engagements or endorsements by the organizations listed. I use AI-assisted tools. Historical test results and their scope are attributed in each case study.
 
-## Engineering note
+## Engineering notes
 
 [Why AI remediation advice is not a SARIF fix](engineering-notes/sarif-remediation.md) — a concrete format failure, before/after JSON, regression evidence and the consumer migration boundary. Based on my merged AI-Infra-Guard contribution.
+
+[Before an AI workflow pilot: test the handoff](engineering-notes/ai-workflow-handoff-checklist.md) — three public fixes translated into a practical acceptance worksheet. Copy the [Markdown plan](templates/workflow-acceptance-plan.md) or [JSON template](templates/workflow-acceptance-plan.json); every check starts as not run.
 
 [Engineering notes](https://leon-ai-workflows.pages.dev/engineering) · [MCP workflow reliability](https://leon-ai-workflows.pages.dev/mcp-workflow-reliability)
 
