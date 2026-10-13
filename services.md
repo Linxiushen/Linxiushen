@@ -6,6 +6,8 @@ Connect the design and office software your team already uses, and turn recurrin
 
 Visit the [service website](https://leon-ai-workflows.pages.dev/) or explore the [synthetic workflow demo](https://leon-ai-workflows.pages.dev/demo/). The demo uses synthetic data and has no live integrations.
 
+The [live service catalog](https://leon-ai-workflows.pages.dev/services) describes workflow assessment, a one-workflow pilot, and MCP & agent reliability. Each option has a separate scope page. [Share a project inquiry](https://leon-ai-workflows.pages.dev/start-project) to discuss fit; deliverables, fees and dates are agreed before work starts.
+
 ## Start with the business problem
 
 This service is designed for business and operations leaders whose teams already use AI and office tools, but still need to coordinate work across them. We identify where the process depends on repeated instructions, moving information between systems or knowledge held by a few people, and decide which part is worth improving.

@@ -4,6 +4,10 @@
 
 [Contribution index](contributions/README.md) · [Engineering case studies](case-studies/README.md) · [Website](https://leon-ai-workflows.pages.dev/) · [Email](mailto:m15178824683@gmail.com)
 
+[Service catalog](https://leon-ai-workflows.pages.dev/services) · [Work & examples](https://leon-ai-workflows.pages.dev/cases) · [Start a project](https://leon-ai-workflows.pages.dev/start-project)
+
+For operations teams evaluating a first pilot, the [open workflow-pilot checklist](https://leon-ai-workflows.pages.dev/resources/workflow-pilot-checklist) covers scope, approvals, recovery and handover. The [ecommerce content guide](https://leon-ai-workflows.pages.dev/guides/ai-product-content-approval) applies those checks to product-content approvals.
+
 ## Selected merged contributions
 
 Each entry links to the upstream implementation, review and merge record. The case studies explain the problem, design choice, validation and limits.
