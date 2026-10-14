@@ -8,6 +8,14 @@ Visit the [service website](https://leon-ai-workflows.pages.dev/) or explore the
 
 The [live service catalog](https://leon-ai-workflows.pages.dev/services) describes workflow assessment, a one-workflow pilot, and MCP & agent reliability. Each option has a separate scope page. [Share a project inquiry](https://leon-ai-workflows.pages.dev/start-project) to discuss fit; deliverables, fees and dates are agreed before work starts.
 
+## Prepare the access and handover decisions
+
+Use the [assessment-versus-pilot guide](https://leon-ai-workflows.pages.dev/guides/ai-workflow-assessment-vs-pilot) to identify the next decision and the evidence needed. The [MCP reliability checklist](https://leon-ai-workflows.pages.dev/guides/mcp-integration-reliability-checklist) gives proposed checks for permissions, discovery, failures and unresolved writes.
+
+Before granting a connection, [define the consultant access boundary](https://leon-ai-workflows.pages.dev/guides/consultant-access-business-tools): which identity, operation, data and environment are involved, and how the grant can end. Before accepting a pilot, [agree who will operate it](https://leon-ai-workflows.pages.dev/guides/ai-workflow-pilot-handover-ownership), the accepted version, the pause route and any separately scoped support.
+
+The [buyer access and handover worksheet](templates/buyer-access-handover-worksheet.md) is an open planning template for those decisions. All exercises start as not run; fill the observations from your own approved checks. Reading the guides or using the worksheet does not require an engagement.
+
 ## Start with the business problem
 
 This service is designed for business and operations leaders whose teams already use AI and office tools, but still need to coordinate work across them. We identify where the process depends on repeated instructions, moving information between systems or knowledge held by a few people, and decide which part is worth improving.

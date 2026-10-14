@@ -33,6 +33,15 @@ These are independent open-source contributions, not employment, client engageme
 
 [Engineering notes](https://leon-ai-workflows.pages.dev/engineering) · [MCP workflow reliability](https://leon-ai-workflows.pages.dev/mcp-workflow-reliability)
 
+## Practical guides for commissioning a workflow
+
+- [Assessment or pilot: what to commission first](https://leon-ai-workflows.pages.dev/guides/ai-workflow-assessment-vs-pilot) — compare the next decision and the evidence each stage should produce.
+- [MCP integration reliability checklist](https://leon-ai-workflows.pages.dev/guides/mcp-integration-reliability-checklist) — check permissions, discovery, uncertain writes and operating handover.
+- [What access should an AI consultant need?](https://leon-ai-workflows.pages.dev/guides/consultant-access-business-tools) — define the permitted operation, client-controlled identities and removal plan.
+- [Who owns a workflow after the pilot?](https://leon-ai-workflows.pages.dev/guides/ai-workflow-pilot-handover-ownership) — separate deliverable rights, operating responsibility and agreed support.
+
+Copy the [buyer access and handover worksheet](templates/buyer-access-handover-worksheet.md) to prepare the scope with your team. Every exercise begins as not run, with observations and evidence left blank.
+
 ## Projects I maintain
 
 | Project | Purpose | Start here |
