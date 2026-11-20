@@ -8,6 +8,18 @@
 
 For operations teams evaluating a first pilot, the [open workflow-pilot checklist](https://leon-ai-workflows.pages.dev/resources/workflow-pilot-checklist) covers scope, approvals, recovery and handover. The [ecommerce content guide](https://leon-ai-workflows.pages.dev/guides/ai-product-content-approval) applies those checks to product-content approvals.
 
+## Industry AI projects you can run
+
+I build decision tools that operators can evaluate on a laptop. These three Python projects include sample inputs, baseline comparisons and the records a reviewer would actually see.
+
+| Project | Try a decision |
+| --- | --- |
+| [Clinical trial operations](https://github.com/Linxiushen/industry-ai-harnesses/tree/main/verticals/pharma) | Search historical registry records by condition, then review recruiting sites and follow-ups on a fictional operations cohort. |
+| [Manufacturing maintenance](https://github.com/Linxiushen/industry-ai-harnesses/tree/main/verticals/manufacturing) | Allocate three inspection slots per batch and see which labeled failures the queue catches or misses. |
+| [Electricity demand](https://github.com/Linxiushen/industry-ai-harnesses/tree/main/verticals/energy) | Compare tomorrow's forecast with last week's load and replay a flexible charging schedule at equal energy. |
+
+[Run all nine workflows](https://github.com/Linxiushen/industry-ai-harnesses#run-all-nine-workflows) · [中文导览](https://github.com/Linxiushen/industry-ai-harnesses/blob/main/README.zh-CN.md)
+
 ## Selected merged contributions
 
 Each entry links to the upstream implementation, review and merge record. The case studies explain the problem, design choice, validation and limits.
