@@ -10,6 +10,8 @@ For operations teams evaluating a first pilot, the [open workflow-pilot checklis
 
 ## Industry AI projects you can run
 
+[**Open the live Industry Agent Studio**](https://linxiushen.github.io/industry-ai-harnesses/) to run a clinical search, schedule inspections or replay an energy shift. Adjust the tool budget and inspect the decisions directly in your browser.
+
 I build decision tools that operators can evaluate on a laptop. These three Python projects include sample inputs, baseline comparisons and the records a reviewer would actually see.
 
 | Project | Try a decision |
